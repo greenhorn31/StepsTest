@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StepsTest</string>
+    <string name="lower_bound">Input lower bound</string>
+    <string name="upper_bound">Input upper bound</string>
+    <string name="show_comments">Show comments</string>
+    <string name="fill_up">Fill up bound fields</string>
+    <string name="comparison_exc">Upper value should be greater then lower</string>
+    <string name="cancer_request">Cancer request</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="comment">Comment:</string>
+    <string name="server_error">Server error</string>
+    <string name="loading_error">Loading error</string>
+    <string name="data_not_found">Data not found</string>
+</resources>
